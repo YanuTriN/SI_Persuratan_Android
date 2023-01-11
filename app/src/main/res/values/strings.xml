@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project</string>
+    <string-array name="planets_array">
+        <item>Surat Undangan</item>
+        <item>Surat Tugas</item>
+        <item>Surat Perjalanan Dinas</item>
+        <item>Surat Keputusan</item>
+        <item>Surat Permohonan</item>
+        <item>Surat Penawaran</item>
+        <item>Surat Ijin</item>
+        <item>Surat Perjanjian</item>
+    </string-array>
+</resources>
